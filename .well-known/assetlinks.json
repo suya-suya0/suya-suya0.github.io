@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.suyasuya0.tamepoyo",
+        "sha256_cert_fingerprints": ["C7:9F:B7:E9:1A:58:82:E4:9A:C6:FC:E9:49:43:32:C6:A7:8A:9E:27:0A:C3:88:DE:0B:BF:3D:73:56:23:53:7A"]
+      }
+    }]
